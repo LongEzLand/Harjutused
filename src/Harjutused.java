@@ -1,4 +1,6 @@
 /* Siia kirjutan hajutused 4.1 ja 4.2 */
+
+/*//4.1
 public class Harjutused {
     public static void zoop() {
         baffle();
@@ -26,6 +28,7 @@ public class Harjutused {
     }
 
 }
+*/
 
 /*Excercise 4.1 vastused:
 1. What is the output of the program?
@@ -50,4 +53,12 @@ Exercise 4.2 vastused:
 an int and two Strings.
 
 
- */
+ *///4.2
+public class Harjutused {
+    public static void zool(int a, String b, String c){
+    }
+    public static void main(String[]args){
+        zool(11, "Muki", "Kase tänav");
+
+    }
+}
